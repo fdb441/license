@@ -1,8 +1,8 @@
 {
   "licenses": [
     { "key": "GOLD-1234-ABCD-5678", "active": true,  "expiry": "2027-12-31" },
-    { "key": "GOLD-9999-XXXX-0001", "active": false "mahmoud" },
-    { "key": "GOLD-9999-XXXX-0002", "active": true "Ahmed" }
+    { "key": "GOLD-9999-XXXX-0001", "active": false },
+    { "key": "GOLD-9999-XXXX-0002", "active": true  }
     { "key": "GOLD-0000-DISABLE-1", "active": false }
   ]
 }
